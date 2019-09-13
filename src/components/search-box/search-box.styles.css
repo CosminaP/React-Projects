@@ -1,0 +1,14 @@
+.search {
+    -webkit-appearance: none;
+    border: solid 1px #e1e1e7;
+    font-size: 1rem;
+    border-radius: 5px;
+    outline: none;
+    padding: .1rem;
+    padding-top: 0;
+    line-height: 3rem;
+    text-align: left;
+    text-indent: 1rem;
+    margin: 1.5rem;
+    width: 50vh;
+}
